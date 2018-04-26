@@ -1,3 +1,10 @@
+---
+layout: default
+title: pmma.com
+cv: passive
+description: test.
+---
+
 ## Welcome to my personal page!
 
 In the near future this page will be used to summerize my work experience and show project that I'm currently working on.
