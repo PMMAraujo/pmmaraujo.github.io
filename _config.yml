@@ -1,3 +1,4 @@
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
+remote_theme: "mmistakes/minimal-mistakes"
 title: Pedro M.M. Araujo
 #description: This is my personal page!
