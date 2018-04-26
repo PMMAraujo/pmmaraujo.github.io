@@ -6,6 +6,6 @@ Views are my own!
 ### Social media pages:
 [Twitter](https://twitter.com/PMMAraujo)
 
-[2nd](/pages/2nd.md)
+[2nd](/pages/2nd.html)
 
-[3rd](/pages/3rd.md)
+[3rd](/pages/3rd.html)
