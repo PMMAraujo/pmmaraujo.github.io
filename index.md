@@ -16,3 +16,5 @@ Views are my own!
 [2nd](/pages/2nd.html)
 
 [3rd](/pages/3rd.md)
+
+[CV](/cv/index.md)
