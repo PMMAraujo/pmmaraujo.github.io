@@ -1,7 +1,3 @@
----
-layout: page
-title: education!
----
 
 [Home](https://pmmaraujo.github.io)
 
