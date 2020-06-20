@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro M M Araujo | Pedro M.M. Araújo</title>
+    <link>/author/pedro-m-m-araujo/</link>
+      <atom:link href="/author/pedro-m-m-araujo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro M M Araujo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pedro M M Araujo</title>
+      <link>/author/pedro-m-m-araujo/</link>
+    </image>
+    
+    <item>
+      <title>SNAPPy: A snakemake pipeline for scalable HIV-1 subtyping by phylogenetic pairing.</title>
+      <link>/publication/araujo-2019-2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/araujo-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of a large cluster of HIV-1 A1 infections detected in Portugal and connected to several Western European countries.</title>
+      <link>/publication/araujo-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/araujo-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical analysis of the binding of potential inhibitors to protein kinases MK2 and MK3.</title>
+      <link>/publication/araujo-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/araujo-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

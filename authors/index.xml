@@ -1,90 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Pedro M.M. Araújo</title>
-    <link>https://pmmaraujo.github.io/authors/</link>
-    <description>Recent content in Authors on Pedro M.M. Araújo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://pmmaraujo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Alexandre Carvalho</title>
-      <link>https://pmmaraujo.github.io/authors/alexandre-carvalho/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/alexandre-carvalho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ana B Abecasis</title>
-      <link>https://pmmaraujo.github.io/authors/ana-b-abecasis/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/ana-b-abecasis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marta Pingarilho</title>
-      <link>https://pmmaraujo.github.io/authors/marta-pingarilho/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/marta-pingarilho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nuno S Osorio</title>
-      <link>https://pmmaraujo.github.io/authors/nuno-s-osorio/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/nuno-s-osorio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pedro M M Araujo</title>
-      <link>https://pmmaraujo.github.io/authors/pedro-m-m-araujo/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/pedro-m-m-araujo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joaquim C G Esteves da Silva</title>
-      <link>https://pmmaraujo.github.io/authors/joaquim-c-g-esteves-da-silva/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/joaquim-c-g-esteves-da-silva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luis Pinto da Silva</title>
-      <link>https://pmmaraujo.github.io/authors/luis-pinto-da-silva/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/luis-pinto-da-silva/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://pmmaraujo.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Currently I&amp;rsquo;m a PhD Student at University of Minho (Portugal), developing my work at &lt;a href=&#34;http://www.icvs.uminho.pt/research-scientists/microbiology--infection/people/id5827&#34; target=&#34;_blank&#34;&gt;Life and Health Sciences Research Institute&lt;/a&gt;. My research focus on uncovering and understanding new trends in the HIV-1 epidemic in Portugal. With a great focus on molecular Data Analysis and Tool Building.
-I’m also part of &lt;a href=&#34;https://www.datascienceportugal.com/team/&#34; target=&#34;_blank&#34;&gt;Data Science Portugal&lt;/a&gt;, a non-profit organization focused on community building and knowledge sharing in the fields of Data Science, Machine Learning and Artificial Intelligence.
-Previously (Master Thesis), I have worked on computer-aided Drug Design of potential Protein Kinase inhibitors.&lt;/p&gt;
-</description>
-    </item>
+    <title>Authors | Pedro M.M. Araújo</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
     
   </channel>
 </rss>

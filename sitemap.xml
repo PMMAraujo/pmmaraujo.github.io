@@ -1,218 +1,207 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pmmaraujo.github.io/</loc>
-    <lastmod>2019-06-21T00:01:09+01:00</lastmod>
-    <priority>0</priority>
+    <loc>/</loc>
+    <lastmod>2020-06-19T18:37:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/project/</loc>
-    <lastmod>2019-06-21T00:01:09+01:00</lastmod>
-    <priority>0</priority>
+    <loc>/project/</loc>
+    <lastmod>2020-06-19T18:37:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/project/snappy/</loc>
-    <lastmod>2019-06-21T00:01:09+01:00</lastmod>
+    <loc>/project/snappy/</loc>
+    <lastmod>2020-06-19T18:37:04+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/publication_types/2/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/alexandre-carvalho/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/authors/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/ana-b-abecasis/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/author/joana-s-martins/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/author/nuno-s-osorio/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/publication/araujo-2019/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <loc>/author/pedro-m-m-araujo/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/marta-pingarilho/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/nuno-s-osorio/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/pedro-m-m-araujo/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication/araujo-2019-2/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/publication_types/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/publication/</loc>
+    <loc>/author/alexandre-carvalho/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/binding-sites/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/author/ana-b-abecasis/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/dose-response-relationship/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication/araujo-2019/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/drug/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/author/marta-pingarilho/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/humans/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/intracellular-signaling-peptides-and-proteins/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/joaquim-c-g-esteves-da-silva/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/authors/luis-pinto-da-silva/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/models/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/molecular/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/molecular-structure/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/protein-binding/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/protein-kinase-inhibitors/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/protein-serine-threonine-kinases/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/structure-activity-relationship/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/tags/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pmmaraujo.github.io/publication/araujo-2015/</loc>
+    <loc>/tag/antagonists-inhibitors/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/antagonists-inhibitors/</loc>
+    <loc>/tag/binding-sites/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/chemical-synthesis/</loc>
+    <loc>/tag/chemical-synthesis/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/chemistry/</loc>
+    <loc>/tag/chemistry/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/metabolism/</loc>
+    <loc>/tag/dose-response-relationship/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/tags/pharmacology/</loc>
+    <loc>/tag/drug/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/authors/admin/</loc>
+    <loc>/tag/humans/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>/tag/intracellular-signaling-peptides-and-proteins/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://pmmaraujo.github.io/post/</loc>
+    <loc>/author/joaquim-c-g-esteves-da-silva/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/luis-pinto-da-silva/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/metabolism/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/models/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/molecular/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/molecular-structure/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pharmacology/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/protein-binding/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/protein-kinase-inhibitors/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/protein-serine-threonine-kinases/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/structure-activity-relationship/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/araujo-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-m.m.-araujo/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
   </url>
   
 </urlset>

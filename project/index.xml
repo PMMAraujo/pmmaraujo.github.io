@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Pedro M.M. Araújo</title>
-    <link>https://pmmaraujo.github.io/project/</link>
-    <description>Recent content in Projects on Pedro M.M. Araújo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2019 00:01:09 +0100</lastBuildDate>
-    
-	    <atom:link href="https://pmmaraujo.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Projects | Pedro M.M. Araújo</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2020 18:37:04 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
       <title>SNAPPy</title>
-      <link>https://pmmaraujo.github.io/project/snappy/</link>
-      <pubDate>Fri, 21 Jun 2019 00:01:09 +0100</pubDate>
-      
-      <guid>https://pmmaraujo.github.io/project/snappy/</guid>
+      <link>/project/snappy/</link>
+      <pubDate>Fri, 19 Jun 2020 18:37:04 +0100</pubDate>
+      <guid>/project/snappy/</guid>
       <description></description>
     </item>
     
